@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>New Lead Notification</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+</head>
+<body style="margin: 0; padding: 0; background-color: #eef2f5; font-family: 'Helvetica Neue', Arial, sans-serif;">
+  <div style="max-width: 600px; margin: 30px auto; background: #ffffff; border-radius: 10px; overflow: hidden; box-shadow: 0 8px 20px rgba(0,0,0,0.08);">
+    
+    <!-- Header -->
+    <div style="background-color: #2d89ef; padding: 20px 30px;">
+      <h2 style="margin: 0; color: #ffffff; font-size: 22px; text-align: center;">🎉 New Lead Notification</h2>
+    </div>
+
+    <!-- Lead Details Table -->
+    <div style="padding: 25px 30px;">
+      <p style="font-size: 16px; color: #333; margin-bottom: 20px;">You have received a new lead. Here are the details:</p>
+      <table style="width: 100%; border-collapse: collapse; font-size: 15px;">
+        <tbody>
+          <tr style="background-color: #f6f9fc;">
+            <td style="padding: 12px 10px; font-weight: bold; color: #2d2d2d; width: 35%;">Lead ID</td>
+            <td style="padding: 12px 10px; color: #4a4a4a;">{{leadNumber}}</td>
+          </tr>
+          <tr>
+            <td style="padding: 12px 10px; font-weight: bold; color: #2d2d2d;">Name</td>
+            <td style="padding: 12px 10px; color: #4a4a4a;">{{name}}</td>
+          </tr>
+          <tr style="background-color: #f6f9fc;">
+            <td style="padding: 12px 10px; font-weight: bold; color: #2d2d2d;">Email</td>
+            <td style="padding: 12px 10px; color: #4a4a4a;">{{email}}</td>
+          </tr>
+          <tr>
+            <td style="padding: 12px 10px; font-weight: bold; color: #2d2d2d;">Phone</td>
+            <td style="padding: 12px 10px; color: #4a4a4a;">{{phone}}</td>
+          </tr>
+          <tr style="background-color: #f6f9fc;">
+            <td style="padding: 12px 10px; font-weight: bold; color: #2d2d2d;">Book</td>
+            <td style="padding: 12px 10px; color: #4a4a4a;">{{book}}</td>
+          </tr>
+          <tr>
+            <td style="padding: 12px 10px; font-weight: bold; color: #2d2d2d;">City</td>
+            <td style="padding: 12px 10px; color: #4a4a4a;">{{city}}</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <!-- Footer -->
+    <div style="background-color: #f1f1f1; padding: 15px 30px; text-align: center;">
+      <p style="margin: 0; font-size: 12px; color: #888;">© 2025 Master Keynotes. All rights reserved.</p>
+    </div>
+  </div>
+</body>
+</html>

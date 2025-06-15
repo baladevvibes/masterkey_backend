@@ -1,0 +1,12 @@
+2025-06-15 16:01:12 info: Incoming request: Host:localhost:5000 GET /api/getbannertitle Body: undefined Params:{} Query:{}
+2025-06-15 16:01:12 info: Incoming request: Host:localhost:5000 GET /api/getinfocontent Body: undefined Params:{} Query:{}
+2025-06-15 16:01:12 info: Incoming request: Host:localhost:5000 GET /api/getcoursecard Body: undefined Params:{} Query:{}
+2025-06-15 16:01:12 info: Incoming request: Host:localhost:5000 GET /api/gethometestimonials Body: undefined Params:{} Query:{}
+2025-06-15 16:06:05 info: Incoming request: Host:localhost:5000 GET /api/getbannertitle Body: undefined Params:{} Query:{}
+2025-06-15 16:06:05 info: Incoming request: Host:localhost:5000 GET /api/getinfocontent Body: undefined Params:{} Query:{}
+2025-06-15 16:06:05 info: Incoming request: Host:localhost:5000 GET /api/getcoursecard Body: undefined Params:{} Query:{}
+2025-06-15 16:06:05 info: Incoming request: Host:localhost:5000 GET /api/gethometestimonials Body: undefined Params:{} Query:{}
+2025-06-15 16:06:53 info: Incoming request: Host:localhost:5000 POST /api/login Body: {"data":"50a8c02f48fdcb7a168a9002732d2ca54f61daa6895eca7566067db43fd7479e581153d7087a54f2f45cc25e9254489b"} Params:{} Query:{}
+2025-06-15 16:06:57 info: Incoming request: Host:localhost:5000 POST /api/login Body: {"data":"50a8c02f48fdcb7a168a9002732d2ca54f61daa6895eca7566067db43fd7479e581153d7087a54f2f45cc25e9254489b"} Params:{} Query:{}
+2025-06-15 16:07:13 info: Incoming request: Host:localhost:5000 POST /api/login Body: {"data":"50a8c02f48fdcb7a168a9002732d2ca54f61daa6895eca7566067db43fd7479e581153d7087a54f2f45cc25e9254489b"} Params:{} Query:{}
+2025-06-15 16:07:28 info: Incoming request: Host:localhost:5000 POST /api/login Body: {"data":"50a8c02f48fdcb7a168a9002732d2ca54f61daa6895eca7566067db43fd7479e581153d7087a54f2f45cc25e9254489b"} Params:{} Query:{}
